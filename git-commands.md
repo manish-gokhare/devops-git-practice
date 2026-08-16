@@ -6,3 +6,4 @@
 - git restore
 - git commit with message
 - git status
+- git branch 
