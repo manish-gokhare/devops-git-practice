@@ -1,0 +1,3 @@
+- Git Setup & Config
+- Basic Git Workflow
+- View the changes
