@@ -1,3 +1,5 @@
 - Git Setup & Config
 - Basic Git Workflow
 - View the changes
+- git init
+- git add 
