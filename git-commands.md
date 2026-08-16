@@ -2,4 +2,5 @@
 - Basic Git Workflow
 - View the changes
 - git init
-- git add 
+- git add
+- git restore 
