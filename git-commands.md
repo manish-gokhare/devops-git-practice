@@ -6,4 +6,5 @@
 - git restore
 - git commit with message
 - git status
-- git branch 
+- git branch
+- git switch
