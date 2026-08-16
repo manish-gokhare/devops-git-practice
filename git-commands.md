@@ -3,4 +3,5 @@
 - View the changes
 - git init
 - git add
-- git restore 
+- git restore
+- git commit with message 
