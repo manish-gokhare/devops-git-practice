@@ -4,4 +4,5 @@
 - git init
 - git add
 - git restore
-- git commit with message 
+- git commit with message
+- git status
